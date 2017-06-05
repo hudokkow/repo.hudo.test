@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addons>
+<addon id="resource.keyboard.german"
+       name="German keyboard"
+       version="1.0.0"
+       provider-name="Team Kodi">
+  <requires>
+    <import addon="kodi.resource" version="1.0.0"/>
+  </requires>
+  <extension point="kodi.resource.keyboard"/>
+  <extension point="kodi.addon.metadata">
+    <summary lang="en">German keyboard</summary>
+    <description lang="en">German keyboard layout for Kodi.</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="resource.keyboard.danish"
+       name="Danish keyboard"
+       version="1.0.0"
+       provider-name="Team Kodi">
+  <requires>
+    <import addon="kodi.resource" version="1.0.0"/>
+  </requires>
+  <extension point="kodi.resource.keyboard"/>
+  <extension point="kodi.addon.metadata">
+    <summary lang="en">Danish keyboard</summary>
+    <description lang="en">Danish keyboard layout for Kodi.</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="resource.keyboard.norwegian"
+       name="Norwegian keyboard"
+       version="1.0.0"
+       provider-name="Team Kodi">
+  <requires>
+    <import addon="kodi.resource" version="1.0.0"/>
+  </requires>
+  <extension point="kodi.resource.keyboard"/>
+  <extension point="kodi.addon.metadata">
+    <summary lang="en">Norwegian keyboard</summary>
+    <description lang="en">Norwegian keyboard layout for Kodi.</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="resource.keyboard.hungarian"
+       name="Hungarian keyboard"
+       version="1.0.0"
+       provider-name="Team Kodi">
+  <requires>
+    <import addon="kodi.resource" version="1.0.0"/>
+  </requires>
+  <extension point="kodi.resource.keyboard"/>
+  <extension point="kodi.addon.metadata">
+    <summary lang="en">Hungarian keyboard</summary>
+    <description lang="en">Hungarian keyboard layout for Kodi.</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="resource.keyboard.turkish"
+       name="Turkish keyboard"
+       version="1.0.0"
+       provider-name="Team Kodi">
+  <requires>
+    <import addon="kodi.resource" version="1.0.0"/>
+  </requires>
+  <extension point="kodi.resource.keyboard"/>
+  <extension point="kodi.addon.metadata">
+    <summary lang="en">Turkish keyboard</summary>
+    <description lang="en">Turkish keyboard layout for Kodi.</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="resource.keyboard.lithuanian"
+       name="Lithuanian keyboard"
+       version="1.0.0"
+       provider-name="Team Kodi">
+  <requires>
+    <import addon="kodi.resource" version="1.0.0"/>
+  </requires>
+  <extension point="kodi.resource.keyboard"/>
+  <extension point="kodi.addon.metadata">
+    <summary lang="en">Lithuanian keyboard</summary>
+    <description lang="en">Lithuanian keyboard layout for Kodi.</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="resource.keyboard.slovak"
+       name="Slovak keyboard"
+       version="1.0.0"
+       provider-name="Team Kodi">
+  <requires>
+    <import addon="kodi.resource" version="1.0.0"/>
+  </requires>
+  <extension point="kodi.resource.keyboard"/>
+  <extension point="kodi.addon.metadata">
+    <summary lang="en">Slovak keyboard</summary>
+    <description lang="en">Slovak keyboard layout for Kodi.</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="resource.keyboard.polish"
+       name="Polish keyboard"
+       version="1.0.0"
+       provider-name="Team Kodi">
+  <requires>
+    <import addon="kodi.resource" version="1.0.0"/>
+  </requires>
+  <extension point="kodi.resource.keyboard"/>
+  <extension point="kodi.addon.metadata">
+    <summary lang="en">Polish keyboard</summary>
+    <description lang="en">Polish keyboard layout for Kodi.</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="resource.keyboard.greek"
+       name="Greek keyboard"
+       version="1.0.0"
+       provider-name="Team Kodi">
+  <requires>
+    <import addon="kodi.resource" version="1.0.0"/>
+  </requires>
+  <extension point="kodi.resource.keyboard"/>
+  <extension point="kodi.addon.metadata">
+    <summary lang="en">Greek keyboard</summary>
+    <description lang="en">Greek keyboard layout for Kodi.</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="resource.keyboard.korean"
+       name="Korean keyboard"
+       version="1.0.0"
+       provider-name="Team Kodi">
+  <requires>
+    <import addon="kodi.resource" version="1.0.0"/>
+  </requires>
+  <extension point="kodi.resource.keyboard"/>
+  <extension point="kodi.addon.metadata">
+    <summary lang="en">Korean keyboard</summary>
+    <description lang="en">Korean keyboard layout for Kodi.</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="resource.keyboard.slovenian"
+       name="Slovenian keyboard"
+       version="1.0.0"
+       provider-name="Team Kodi">
+  <requires>
+    <import addon="kodi.resource" version="1.0.0"/>
+  </requires>
+  <extension point="kodi.resource.keyboard"/>
+  <extension point="kodi.addon.metadata">
+    <summary lang="en">Slovenian keyboard</summary>
+    <description lang="en">Slovenian keyboard layout for Kodi.</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="resource.keyboard.swedish"
+       name="Swedish keyboard"
+       version="1.0.0"
+       provider-name="Team Kodi">
+  <requires>
+    <import addon="kodi.resource" version="1.0.0"/>
+  </requires>
+  <extension point="kodi.resource.keyboard"/>
+  <extension point="kodi.addon.metadata">
+    <summary lang="en">Swedish keyboard</summary>
+    <description lang="en">Swedish keyboard layout for Kodi.</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="resource.keyboard.spanish"
+       name="Spanish keyboard"
+       version="1.0.0"
+       provider-name="Team Kodi">
+  <requires>
+    <import addon="kodi.resource" version="1.0.0"/>
+  </requires>
+  <extension point="kodi.resource.keyboard"/>
+  <extension point="kodi.addon.metadata">
+    <summary lang="en">Spanish keyboard</summary>
+    <description lang="en">Spanish keyboard layout for Kodi.</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="resource.keyboard.arabic"
+       name="Arabic keyboard"
+       version="1.0.0"
+       provider-name="Team Kodi">
+  <requires>
+    <import addon="kodi.resource" version="1.0.0"/>
+  </requires>
+  <extension point="kodi.resource.keyboard"/>
+  <extension point="kodi.addon.metadata">
+    <summary lang="en">Arabic keyboard</summary>
+    <description lang="en">Arabic keyboard layout for Kodi.</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="resource.keyboard.french"
+       name="French keyboard"
+       version="1.0.0"
+       provider-name="Team Kodi">
+  <requires>
+    <import addon="kodi.resource" version="1.0.0"/>
+  </requires>
+  <extension point="kodi.resource.keyboard"/>
+  <extension point="kodi.addon.metadata">
+    <summary lang="en">French keyboard</summary>
+    <description lang="en">French keyboard layout for Kodi.</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="resource.keyboard.english"
+       name="English keyboard"
+       version="1.0.0"
+       provider-name="Team Kodi">
+  <requires>
+    <import addon="kodi.resource" version="1.0.0"/>
+  </requires>
+  <extension point="kodi.resource.keyboard"/>
+  <extension point="kodi.addon.metadata">
+    <summary lang="en">English keyboard</summary>
+    <description lang="en">English keyboard layout for Kodi.</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="resource.keyboard.ukrainian"
+       name="Ukrainian keyboard"
+       version="1.0.0"
+       provider-name="Team Kodi">
+  <requires>
+    <import addon="kodi.resource" version="1.0.0"/>
+  </requires>
+  <extension point="kodi.resource.keyboard"/>
+  <extension point="kodi.addon.metadata">
+    <summary lang="en">Ukrainian keyboard</summary>
+    <description lang="en">Ukrainian keyboard layout for Kodi.</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="resource.keyboard.silesian"
+       name="Silesian keyboard"
+       version="1.0.0"
+       provider-name="Team Kodi">
+  <requires>
+    <import addon="kodi.resource" version="1.0.0"/>
+  </requires>
+  <extension point="kodi.resource.keyboard"/>
+  <extension point="kodi.addon.metadata">
+    <summary lang="en">Silesian keyboard</summary>
+    <description lang="en">Silesian keyboard layout for Kodi.</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="resource.keyboard.thai"
+       name="Thai keyboard"
+       version="1.0.0"
+       provider-name="Team Kodi">
+  <requires>
+    <import addon="kodi.resource" version="1.0.0"/>
+  </requires>
+  <extension point="kodi.resource.keyboard"/>
+  <extension point="kodi.addon.metadata">
+    <summary lang="en">Thai keyboard</summary>
+    <description lang="en">Thai keyboard layout for Kodi.</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="resource.keyboard.italian"
+       name="Italian keyboard"
+       version="1.0.0"
+       provider-name="Team Kodi">
+  <requires>
+    <import addon="kodi.resource" version="1.0.0"/>
+  </requires>
+  <extension point="kodi.resource.keyboard"/>
+  <extension point="kodi.addon.metadata">
+    <summary lang="en">Italian keyboard</summary>
+    <description lang="en">Italian keyboard layout for Kodi.</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="resource.keyboard.romanian"
+       name="Romanian keyboard"
+       version="1.0.0"
+       provider-name="Team Kodi">
+  <requires>
+    <import addon="kodi.resource" version="1.0.0"/>
+  </requires>
+  <extension point="kodi.resource.keyboard"/>
+  <extension point="kodi.addon.metadata">
+    <summary lang="en">Romanian keyboard</summary>
+    <description lang="en">Romanian keyboard layout for Kodi.</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="resource.keyboard.russian"
+       name="Russian keyboard"
+       version="1.0.0"
+       provider-name="Team Kodi">
+  <requires>
+    <import addon="kodi.resource" version="1.0.0"/>
+  </requires>
+  <extension point="kodi.resource.keyboard"/>
+  <extension point="kodi.addon.metadata">
+    <summary lang="en">Russian keyboard</summary>
+    <description lang="en">Russian keyboard layout for Kodi.</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="resource.keyboard.chinese"
+       name="Chinese keyboard"
+       version="1.0.0"
+       provider-name="Team Kodi">
+  <requires>
+    <import addon="kodi.resource" version="1.0.0"/>
+  </requires>
+  <extension point="kodi.resource.keyboard"/>
+  <extension point="kodi.addon.metadata">
+    <summary lang="en">Chinese keyboard</summary>
+    <description lang="en">Chinese keyboard layout for Kodi.</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="resource.keyboard.croatian"
+       name="Croatian keyboard"
+       version="1.0.0"
+       provider-name="Team Kodi">
+  <requires>
+    <import addon="kodi.resource" version="1.0.0"/>
+  </requires>
+  <extension point="kodi.resource.keyboard"/>
+  <extension point="kodi.addon.metadata">
+    <summary lang="en">Croatian keyboard</summary>
+    <description lang="en">Croatian keyboard layout for Kodi.</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="resource.keyboard.bulgarian"
+       name="Bulgarian keyboard"
+       version="1.0.0"
+       provider-name="Team Kodi">
+  <requires>
+    <import addon="kodi.resource" version="1.0.0"/>
+  </requires>
+  <extension point="kodi.resource.keyboard"/>
+  <extension point="kodi.addon.metadata">
+    <summary lang="en">Bulgarian keyboard</summary>
+    <description lang="en">Bulgarian keyboard layout for Kodi.</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="resource.keyboard.czech"
+       name="Czech keyboard"
+       version="1.0.0"
+       provider-name="Team Kodi">
+  <requires>
+    <import addon="kodi.resource" version="1.0.0"/>
+  </requires>
+  <extension point="kodi.resource.keyboard"/>
+  <extension point="kodi.addon.metadata">
+    <summary lang="en">Czech keyboard</summary>
+    <description lang="en">Czech keyboard layout for Kodi.</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="resource.keyboard.portuguese"
+       name="Portuguese keyboard"
+       version="1.0.0"
+       provider-name="Team Kodi">
+  <requires>
+    <import addon="kodi.resource" version="1.0.0"/>
+  </requires>
+  <extension point="kodi.resource.keyboard"/>
+  <extension point="kodi.addon.metadata">
+    <summary lang="en">Portuguese keyboard</summary>
+    <description lang="en">Portuguese keyboard layout for Kodi.</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="resource.keyboard.hebrew"
+       name="Hebrew keyboard"
+       version="1.0.0"
+       provider-name="Team Kodi">
+  <requires>
+    <import addon="kodi.resource" version="1.0.0"/>
+  </requires>
+  <extension point="kodi.resource.keyboard"/>
+  <extension point="kodi.addon.metadata">
+    <summary lang="en">Hebrew keyboard</summary>
+    <description lang="en">Hebrew keyboard layout for Kodi.</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+</addons>
